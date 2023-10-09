@@ -5,4 +5,4 @@
   * I learned a lot from the open-source community, and I love to share and contribute 😸
 ---
 ### :fire: My Stats :
-[![GitHub Streak](https://streak-stats.demolab.com/?user=seyoun209)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=seyoun2091&theme=dark)](https://git.io/streak-stats)
